@@ -1,4 +1,4 @@
-# spacer
+# Project: spacer
 
 ## Project setup
 ```
